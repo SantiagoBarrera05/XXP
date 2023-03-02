@@ -1,3 +1,5 @@
+Taller 8 o 7
+
 1 - Ingresar por consola al directorio veggie-favorites.
 2 - Obtener el log del repositorio.
 3 - Volver e ingresar a la carpeta veggie-clone pakksjaiudbgsiujk
