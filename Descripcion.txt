@@ -1,6 +1,6 @@
 1 - Ingresar por consola al directorio veggie-favorites.
 2 - Obtener el log del repositorio.
-3 - Volver e ingresar a la carpeta veggie-clone
+3 - Volver e ingresar a la carpeta veggie-clone pakksjaiudbgsiujk
 4 - Obtener el log del repositorio
 5 - Regresar a la carpeta veggie-favorites.
 6 - Modificar los archivo chili.txt y squash-lasagna.txt con cualquier texto
