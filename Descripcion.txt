@@ -1,0 +1,32 @@
+1 - Ingresar por consola al directorio veggie-favorites.
+2 - Obtener el log del repositorio.
+3 - Volver e ingresar a la carpeta veggie-clone
+4 - Obtener el log del repositorio
+5 - Regresar a la carpeta veggie-favorites.
+6 - Modificar los archivo chili.txt y squash-lasagna.txt con cualquier texto
+7 - Agrege todos los archivo a la stagin area.
+8 - Abra de nuevo el archivo chili.txt y borre todo su contenido luego guardelo.
+9 - Recupere el contenido del archivo desde el stage area.
+10 - Abra el archivo squash-lasagna.txt y agrege su nombre al final del archivo.
+11 - Agrege solamente el archivo squash-lasagna.txt a la stage area.
+12 - Realice un commit con el texto Mensaje "Texto Agregado a los archivos"
+13 - Retorne por consola al directorio veggie-clone
+14 - Mostrar que repositorios remotos tiene configurado.
+15 - Hacer un fetch para actualizar el clone desde favorites
+16 - Mostrar el log del repositorio.
+17 - Muestre la rama actual en la que se encuentra
+18 - Fusione la rama master con origin/master
+19 - Mostrar el log del repositorio.
+20 - Cree una nueva rama con su nombre.
+21 - Cambie a la rama de su nombre
+22 - Edite el archivo new-recipe.txt con el texto que usted desee y guardelo.
+23 - Agrege solamente el archivo new-recipe.txt a la stage area
+24 - Realice un commit con el texto "mi receta"
+25 - Renombra el repositorio remoto origin a favorite
+26 - Intente hacer un fetch a favorite
+27 - Haga un push al servidor remoto enviando la rama de su nombre.
+28 - Cambie a la carpeta veggie-favorites.
+29 - Muestre un log del repositorio de una sola linea.
+30 - Muestre las ramas del repositorio.
+31 - Cambie a la rama de su nombre
+32 - Haga un log y verifique que se encuentre el ultimo commit que hizo.
